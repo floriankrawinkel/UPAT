@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14d7098fe45153b4ba9f0a3d835e4350, type: 3}
+  m_Name: BloomVisualDelegate
+  m_EditorClassIdentifier: 
+  visualDelegateName: Bloom
+  depthLevel: 0
+  abstractionLevel: 0
+  controlLevel: 0
+  fadeInTargetValue: 100
+  fadeOutTargetValue: 0
+  threshold: 0.9
+  intensity: 0
+  scatter: 0.7

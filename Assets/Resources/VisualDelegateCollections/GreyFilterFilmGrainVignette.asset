@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17dbdb1f075cb9641be3e1e2b652f3bc, type: 3}
+  m_Name: GreyFilterFilmGrainVignette
+  m_EditorClassIdentifier: 
+  collectionName: Default
+  description: The Visual Delegate Combination used while developing the Applicaton
+  visualDelegates:
+  - {fileID: 11400000, guid: a16720bb178ec4c49ab355b6c6f27c0b, type: 2}
+  - {fileID: 11400000, guid: 79305de40d3458f469635604790d3302, type: 2}
+  - {fileID: 11400000, guid: 0a7eb3dd1d6eb9a42833a9d0acae5253, type: 2}
